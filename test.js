@@ -6,5 +6,7 @@ var test = require('tap').test;
 test('Test', function (t) {
     t.deepEqual(split('hello this is dog'), ["hello", "this", "is", "dog"]);
     t.deepEqual(split('hello "this is dog"'), ["hello", "this is dog"]);
+    t.deepEqual(split(''), []);
+    t.deepEqual(split(), []);
     t.end();
 });

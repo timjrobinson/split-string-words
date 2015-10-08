@@ -1,6 +1,6 @@
 {
   "name": "split-string-words",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Splits a string into individual words, taking quotes into account",
   "main": "index.js",
   "dependencies": {},

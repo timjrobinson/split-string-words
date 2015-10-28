@@ -17,6 +17,9 @@ split('hello this is dog');
 
 split('hello "this is dog"'); 
 //=> ["hello", "this is dog"]
+
+split('filename hello-world.js');
+//=> ["filename", "hello-world.js"]
 ```
 
 ## License

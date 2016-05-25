@@ -18,8 +18,8 @@ split('hello this is dog');
 split('hello "this is dog"'); 
 //=> ["hello", "this is dog"]
 
-split('filename hello-world.js'); 
-//=> ["filename", "hello-world.js"]
+split('filename hello-world.js __winning.py'); 
+//=> ["filename", "hello-world.js", "__winning.py"]
 ```
 
 ## License

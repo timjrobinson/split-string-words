@@ -1,5 +1,8 @@
 # split-string-words
+
 Splits a string into individual words, taking quotes into account
+
+[![Build Status](https://travis-ci.org/timjrobinson/split-string-words.svg?branch=master)](https://travis-ci.org/timjrobinson/split-string-words)
 
 ## Install 
 ```
